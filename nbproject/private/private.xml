@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/ControleurLudoServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/localLudo/ludo.html</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/ListJoueurServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/modele/HistoriqueModele.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/room.jsp</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/index.jsp</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/liste.jsp</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/js/appRoom.js</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/RejoindreServelet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/NomUpDateRoomServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/AuthentificationServelet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/localLudo/ludo.css</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/ChangementDePlaceServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/js/index.js</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/dao/HistoriquePartieDao.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/test/Test.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/css/vict.css</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/AutorisationTourServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/MajServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/Local1Servlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/ludo.jsp</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/css/ludo.css</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/ActuNomServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/LocalServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/VictoireServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/localLudo/w3.css</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/css/list.css</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/modele/PositionModele.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/RoomServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/dao/SuppressionDao.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/dao/TourParAttenteDao.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/ModyServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/dao/TableDao.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/RedirServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/AjoutServelet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/css/index.css</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/dao/ListeDao.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/localLudo/app.js</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/css/deLudo.css</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/LudoServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/dao/UpDateNomRoomDao.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/ChangementDeTourParTempsServlet.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/dao/AuthentificationDao.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/src/java/servelet/ChangementDeTour.java</file>
+            <file>file:/C:/Users/RANTO/Documents/NetBeansProjects/ludoJava/web/js/app.js</file>
+        </group>
+    </open-files>
+</project-private>

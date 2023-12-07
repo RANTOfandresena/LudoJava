@@ -1,0 +1,55 @@
+.cont{
+    margin: 10px auto;
+    max-width: 570px;
+    height: 94vh;
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 5px 20px 50px #000;
+    background-color: #2196f3;
+}
+.titre{
+    height: 250px;
+    color: white;
+    font-size: 200px;
+    display: flex;
+}
+.a{
+    position: absolute;
+    left: 20px;
+    margin-top: 20%;
+    transform: translateX(200%);
+    transition: 1s;
+}
+.a.active {
+    transform: translateX(0);
+    opacity: 1;
+    margin-left: -1%;
+}
+.b{
+    margin-top: 4%;
+    margin-left: 8%;
+    width: 84%;
+    box-shadow: -1px -2px 20px 0px #000;
+}
+.menu{
+    display: inline;
+    flex-direction:row;
+}
+.c{
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 1%;
+}
+
+.partie{
+    width: 96%;
+}
+.relat{
+    
+    position: absolute;
+    top: 23%;
+}
+.shadow{
+    box-shadow: -1px -2px 20px 0px #000;
+}

@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 août 2023, 09:07:39
+    Author     : RANTO
+*/
+.titre{
+    text-align: center; 
+}
+td{ 
+    height: 200px;
+    width: 50%;
+}
+.cont{
+    margin: 100px auto;
+    max-width: 680px;
+    overflow: hidden;
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+    border-radius: 10px;
+    box-shadow: 5px 20px 50px #000;
+}
+.tab{
+    border-collapse: collapse;
+    width: 100%;
+}
+.joueur{ 
+    text-align: center;
+}
+

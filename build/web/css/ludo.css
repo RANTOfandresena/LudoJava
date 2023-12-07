@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 août 2023, 14:07:38
+    Author     : RANTO
+*/
+
+.cont{
+    margin:auto;
+    max-width: 600px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 5px 20px 50px #000;
+}  

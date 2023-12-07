@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 août 2023, 17:16:52
+    Author     : RANTO
+*/
+
+body{
+    height: 100%;
+}
+.titre{
+    text-align: center;
+    color: white;
+}
+.cont{
+    z-index: 1;
+    margin: 10px auto;
+    max-width: 570px;
+    height: 94vh;
+    overflow: hidden;
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+    border-radius: 10px;
+    box-shadow: 5px 20px 50px #000;
+    background-color: #2196f3;
+}
+.list{
+    height: 85%;
+    margin: 4%; 
+    box-shadow: inset 1px 1px 11px 0px #000;
+    background-color: darkgray;
+    border-radius: 10px;
+    overflow-x:hidden;
+}
+.partie{
+    z-index: 0;
+    /*height: 22%;*/
+    
+    margin: 6px;
+    box-shadow: 0px 0px 9px 0px #000;
+    border-radius: 10px;
+}
+.form{
+    display: block;
+    color: white;
+}
+.nom{
+    text-align: center;
+    height:  26px;
+    margin-bottom: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0px 0px 9px 0px #000;
+}
+
+.inp {
+    width: 98%;
+    padding: 5px;
+    outline: none;
+    margin-left: 6px;
+  }
+.go{
+    color: white;
+    margin-top: 3px;
+    height: 32px;
+    box-shadow: 0px 0px 9px 0px #000;
+}
+.go:hover{
+    opacity: 1;
+}
+.joueur{
+    display: flex;
+    text-align: center;
+    border: 4px dotted rgb(255, 255, 255);  
+}
+.nomJ{
+    width: 25%;
+    height: 25px;
+}
+.k{
+    text-align: center;
+    height:  26px;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    box-shadow: 0px 0px 9px 0px #000;
+} 
