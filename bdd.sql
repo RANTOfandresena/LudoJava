@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Structure de la table `room`
 --
-
+CREATE DATABASE 'ludojava'
 CREATE TABLE `room` (
   `id` int(11) NOT NULL,
   `nom` varchar(20) NOT NULL,
